@@ -1,0 +1,8 @@
+
+Code	Character
+\\	\ (backslash)
+\"	'' (double quote)
+\'	' (single quote)
+\n	newline
+\t	tab
+
